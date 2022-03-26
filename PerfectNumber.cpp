@@ -19,7 +19,7 @@ int main ()
     }
     else
     {
-        cout<<"NO";
+        cout<<"NOOOOOOO";
     }
 
 }
